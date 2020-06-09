@@ -3,3 +3,6 @@ Dieser Befehl erstellt ein Git Repository.
 
 git add
 Fügt Dateien dem Staging-Bereich hinzu.
+
+git branch
+Erstellt einen neuen Branch.
